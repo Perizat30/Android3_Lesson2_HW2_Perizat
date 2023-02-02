@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android3_Lesson2_HW2_Perizat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_second_fragment">GO TO SECOND FRAGMENT</string>
+    <string name="favourite_color">FAVOURITE COLOR</string>
+    <string name="favourite_number">FAVOURITE NUMBER</string>
+</resources>
